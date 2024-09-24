@@ -1,0 +1,3 @@
+MX-23.4_x64.iso.torrent
+sparkylinux-7.5-x86_64-kde.iso.torrent
+ubuntustudio-22.04.5-dvd-amd64.iso.torrent

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "sparkylinux",
+        "regex": "sparkylinux-\\d\\.\\d-x86_64-kde\\.iso\\.torrent"
+    },
+    {
+        "name": "MX",
+        "regex": "MX-\\d\\d\\.\\d_x64.iso.torrent"
+    },
+    {
+        "name": "ubuntustudio",
+        "regex": "ubuntustudio-\\d\\d\\.\\d\\d\\.\\d-dvd-amd64\\.iso\\.torrent"
+    }
+]
